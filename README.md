@@ -2,7 +2,7 @@
 
 Clone the Repository
 
-git clone https://github.com/vanuj447/portfolio(CU)git
+git clone https://github.com/vanuj447/portfolio-CU-.git
 
 
 Navigate to the Project Directory
