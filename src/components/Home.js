@@ -18,7 +18,7 @@ export default function Home() {
         <div className="profile-wrapper mb-4">
           <img
             src={profileImg}
-            alt="Prasad Reddy"
+            alt="No image"
             className="profile-img shadow"
           />
         </div>
