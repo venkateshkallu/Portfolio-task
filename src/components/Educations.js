@@ -5,22 +5,22 @@ import '../App.css';
 
 const educationList = [
   {
-    title: "BACHELORS OF TECHNOLOGY",
-    institution: "XXXXXXXXX",
-    year: "2023",
-    description: "XXXXXXXX"
+    title: "BACHELORS OF FORENSIC SCIENCE",
+    institution: "ALAKH PRAKASH GOYAL SHIMLA UNIVERSITY",
+    year: "2024",
+    description: "Specialized in Forensic Science with coursework in criminalistics, forensic chemistry, and investigation techniques."
   },
   {
-    title: "HIGHER SECONDARY EDUCATION",
-    institution: "XXXXXXXXXXX",
-    year: "2019",
-    description: "XXXXXXXXXXXX"
+    title: "INTERMEDIATE - BI.P.C",
+    institution: "VIJETHA JUNIOR COLLEGE",
+    year: "2020",
+    description: "Completed Higher Secondary Education in Biology, Physics, and Chemistry."
   },
   {
     title: "SECONDARY EDUCATION",
-    institution: "XXXXXXXXX",
-    year: "2017",
-    description: "XXXXXXXX"
+    institution: "ZPHS YELAKURTHY, MEDAK",
+    year: "2018",
+    description: "Successfully completed SSC with a focus on science and mathematics."
   }
 ];
 

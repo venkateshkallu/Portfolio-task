@@ -19,18 +19,18 @@ function About() {
           </div>
           <div className="col-md-8">
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
-              <h4 className="text-dark mb-3">XXXXXXXXXXX</h4>
+              <h4 className="text-dark mb-3">Venkatesh Kallu</h4>
               <p className="text-muted">
-                {/* I'm an aspiring DevOps Engineer with a strong foundation in both development and operations. My journey began with Electronics & Communication Engineering, but my passion for technology led me to explore the dynamic world of DevOps and cloud computing. */}
+                { "I'm an aspiring DevOps Engineer with a keen interest in cloud computing, DevOps, and DevSecOps practices. My journey began with a BSc in Forensic Science, and my passion for technology has driven me to explore the dynamic world of infrastructure automation, monitoring, and security in software systems."}
               </p>
               <p className="text-muted">
-                {/* Through comprehensive training at Emexo Technologies and hands-on internship experience, I've developed expertise in containerization, CI/CD pipelines, cloud platforms, and infrastructure automation. I believe in continuous learning and staying updated with the latest industry trends. */}
+                { " I have hands-on experience with tools and platforms like Docker, Kubernetes, Linux (Ubuntu), Jenkins CI/CD, Git, GitHub, GitLab, Ansible, Terraform, Prometheus, Grafana, Python, and Shell Scripting. I enjoy integrating security and automation to make systems more reliable and efficient."}
               </p>
               <p className="text-muted">
                 {/* I'm also proficient with tools like <strong>Git</strong>, <strong>Amazon EC2</strong>, and <strong>Amazon S3</strong>, and have strong foundations in DevOps Tools like <strong>Kubernetes, Docker, Linux(Ubuntu), Jenkins CI/CD, GitHub, GitLab, GitHub Actions, Ansible, Terraform, SonarQube, NewRelic, Prometheus, Grafana, Python, Shell Scripting.</strong> */}
               </p>
               <p className="text-muted mb-0">
-                {/* My goal is to build efficient, secure, and maintainable software that delivers value to users. I’m continuously learning, exploring new tech, and growing as a developer. */}
+                { "My goal is to contribute to robust, secure, and scalable DevOps solutions while continuously learning and exploring new technologies in the cloud and DevSecOps space."}
               </p>
             </div>
           </div>

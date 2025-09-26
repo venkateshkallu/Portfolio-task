@@ -24,15 +24,15 @@ function Contact() {
               <div className="card-body text-start">
                 <p className="contact-info mb-3">
                   <FaEnvelope className="me-2 icon-warning" />
-                  <a href="mailto:avijitgorai8250@gmail.com">XXXXXXXXXXXXXXXX@gmail.com</a>
+                  <a href="mailto:avijitgorai8250@gmail.com">venkateshkalluu@gmail.com</a>
                 </p>
                 <p className="contact-info mb-3">
                   <FaPhoneAlt className="me-2 icon-warning" />
-                  <a href="tel:+91 9391934987">+91 XXXXXXXXXXXXXX</a>
+                  <a href="tel:+91 9391934987">+91 9121878363</a>
                 </p>
                 <p className="contact-info mb-3">
                   <FaMapMarkerAlt className="me-2 icon-warning" />
-                  XXXXXXX, XXStateXXXX, India
+                  Hyderabad, Telangana, India
                 </p>
                 <p className="contact-info mb-3">
                   <FaLinkedin className="me-2 icon-warning" />

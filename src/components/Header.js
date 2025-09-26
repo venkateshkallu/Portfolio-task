@@ -9,7 +9,7 @@ function Header() {
       <Container fluid>
         <Navbar.Brand href="#home" className="fw-bold brand-text fs-4">
           <FaUser className="me-2" />
-          XXXXXXXXXXXXXXXXXX
+          KALlU VENKATESH
         </Navbar.Brand>
         <Navbar.Toggle aria-controls="navbar-nav" className="border-0" />
         <Navbar.Collapse id="navbar-nav">

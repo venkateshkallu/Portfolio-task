@@ -5,18 +5,18 @@ import '../App.css';
 
 const experiences = [
   {
-    role: 'XXXXXXXX',
-    company: 'XXXXXX',
-    duration: 'Novemeber 2024 - May 2025',
+    role: 'Trainee',
+    company: 'Under Mentorship Guidance',
+    duration: 'November 2024 - May 2025',
     description:
-      'XXXXXXXXXXXXXXXX'
+      'Worked as a trainee where I created blogs about databases, developed small full-stack chatbot web pages, and built frontend pages for a validation tool. Gained hands-on experience in writing blogs, frontend development, and practical project execution under mentorship guidance.'
   },
   {
-    role: 'XXXXXXXXXX',
-    company: 'XXXXXXXXXXXXX',
+    role: 'Intern',
+    company: 'Self Projects / Learning',
     duration: 'October 2024 - March 2025',
     description:
-      'XXXXXXXXXXXXX'
+      'Worked on personal projects including blog writing, full-stack mini projects, and web application prototypes. Strengthened knowledge in frontend development, databases, and problem-solving.'
   }
 ];
 

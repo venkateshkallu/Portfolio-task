@@ -3,11 +3,48 @@ import { motion } from 'framer-motion';
 import '../App.css';
 
 const skillCategories = {
-  'Programming Languages': ['Python', 'JavaScript', 'HTML', 'CSS'],
-  'Databases': ['NoSQL, RDS, MongoDB'],
-  'Frameworks': ['React.js'],
-  'Tools': ['Amazon EC2', 'Amazon S3', 'LINUX(Ubuntu)', 'Git'],
-  'Devops': ['Kubernetes, Docker, Jenkins CI/CD, Ansible, Terraform, SonarQube, NewRelic, Prometheus, Grafana']
+  'Programming Languages': [
+    'Basic Python',
+   
+  ],
+  'Databases': [
+    'MySQL',
+    'PostgreSQL',
+    'MongoDB',
+    'NoSQL',
+  ],
+  'Frameworks & Libraries': [
+    'Basic React.js',
+  ],
+  'Cloud & Platforms': [
+    'Amazon EC2',
+    'Amazon S3',
+    'Elastic Beanstalk',
+    'Heroku',
+    'Vercel',
+    'GitHub Pages'
+  ],
+  'DevOps & Tools': [
+    'Linux (Ubuntu)',
+    'Git & GitHub',
+    'Docker',
+    'Kubernetes',
+    'Jenkins CI/CD',
+    'Ansible',
+    'Terraform',
+    'SonarQube',
+    'Prometheus',
+    'Grafana',
+  ],
+  'Cybersecurity & Forensics': [
+    'Nmap',
+    'Wireshark',
+    'Burp Suite',
+    'OWASP ZAP',
+    'ProxyChains',
+    'Kali Linux',
+    
+  ]
 };
 
 export default function Skills() {

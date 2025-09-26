@@ -9,7 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.7",
     "framer-motion": "^12.23.0",
-    "node": "^24.5.0",
     "react": "^19.1.0",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.1.0",
@@ -41,5 +40,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "🚀 Steps to Run the Project",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanuj447/Portfolio-CU-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vanuj447/Portfolio-CU-/issues"
+  },
+  "homepage": "."
 }

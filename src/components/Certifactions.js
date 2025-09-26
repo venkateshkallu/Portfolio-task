@@ -5,18 +5,18 @@ import '../App.css';
 
 const certifications = [
   {
-    title: "XXXXXXXX", /* change the name of your certification */
-    issuer: "XXXXXXX", /* issued company/college/institute/university*/
-    year: "2024",
+    title: "AWS Certified Solutions Architect – Associate",
+    issuer: "Amazon Web Services (AWS)",
+    year: "2025 (Upcoming)",
     description:
-      "XXXXXXXXXXX"
+      "Validates expertise in designing and deploying scalable, highly available, and fault-tolerant systems on AWS cloud."
   },
   {
-    title: "XXXXXXXXX",
-    issuer: "XXXXXXXX",
-    year: "2022",
+    title: "Certified Kubernetes Application Developer (CKAD)",
+    issuer: "Cloud Native Computing Foundation (CNCF)",
+    year: "2025 (Upcoming)",
     description:
-      "XXXXXXXXXXXXXX"
+      "Demonstrates proficiency in building, deploying, and configuring cloud-native applications using Kubernetes."
   },
 ];
 

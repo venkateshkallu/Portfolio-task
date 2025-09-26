@@ -4,43 +4,52 @@ import '../App.css';
 
 const projectList = [
   {
-    title: 'XXXXXXXXXX',
+    title: 'AWS CI/CD Pipeline with DevSecOps',
+    duration: 'Sep 2025 – Present',
+    company: 'Self-Learning Project',
+    description:
+      'Designed and deployed a CI/CD pipeline on AWS using GitHub Actions, Docker, and Elastic Beanstalk. Integrated security scans (Snyk, Trivy) and monitoring with Prometheus & Grafana.',
+    responsibilities:
+      'Configured GitHub Actions workflows, containerized MERN application with Docker, deployed to AWS Elastic Beanstalk, integrated security scanning in pipeline, and set up monitoring alerts.'
+  },
+  {
+    title: 'MERN Blog Application',
     duration: 'Feb 2025 – May 2025',
-    company: 'XXXXXXXX',
+    company: 'Self Project',
     description:
-      'XXXXXXXXXX',
+      'A blog platform built with MERN stack where users can register, login, write, and manage their blogs with JWT authentication.',
     responsibilities:
-      'XXXXXXXXX'
+      'Developed REST APIs using Express.js, integrated MongoDB Atlas, implemented JWT authentication, built frontend with React, and deployed app on Vercel.'
   },
   {
-    title: 'XXXXXXXX',
+    title: 'React Portfolio Website',
     duration: 'July 2024 – Nov 2024',
-    company: 'XXXXXXXX',
+    company: 'Self Project',
     description:
-      'XXXXXXXXXX',
+      'A personal portfolio website to showcase projects, certifications, and experience.',
     responsibilities:
-      'XXXXXXXXXX' 
+      'Designed UI with React and Framer Motion, integrated assets (resume & profile image), and deployed on GitHub Pages + Vercel.'
   },
   {
-    title: 'XXXXXXXXX',
+    title: 'Cybersecurity Tools Blog',
     duration: 'Mar 2024 – Jun 2024',
-    company: 'XXXXXXXXX',
+    company: 'Self-Learning',
     description:
-      'XXXXXXXXXXX',
+      'Wrote beginner-friendly blogs on using open-source security tools (Nmap, Wireshark, Burp Suite) and DevSecOps practices for MERN applications.',
     responsibilities:
-      'XXXXXXXXXX'
+      'Researched cybersecurity concepts, documented practical steps, created tutorials for students, and published blogs for awareness.'
   },
-   {
-    title: 'XXXXXXXXX',
+  {
+    title: 'Forensic Data Analysis with Python',
     duration: 'Mar 2024 – Jun 2024',
-    company: 'XXXXXXXX',
+    company: 'Academic Project',
     description:
-      'XXXXXXX',
+      'Analyzed forensic case datasets using Python libraries (Pandas, Matplotlib, Scikit-learn) to detect fraud and anomalies.',
     responsibilities:
-      'XXXXXXX'
+      'Preprocessed data, applied machine learning models, generated reports, and visualized patterns for investigation insights.'
   },
 ];
-/*  u can add more projects after line 41 or else u want to delete from { to } u need to delete*/
+
 function Projects() {
   return (
     <motion.section
