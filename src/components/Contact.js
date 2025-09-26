@@ -47,7 +47,7 @@ function Contact() {
 		<p className="contact-info mb-3">
                   <FaGithub className="me-2 icon-warning" />
                   <a
-                    href="https://github.com/venkateshkalluu.git"
+                    href="https://github.com/venkateshkallu"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
