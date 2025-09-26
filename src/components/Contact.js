@@ -37,17 +37,17 @@ function Contact() {
                 <p className="contact-info mb-3">
                   <FaLinkedin className="me-2 icon-warning" />
                   <a
-                    href="https://www.linkedin.com/in/XXXXXXXXX/"
+                    href="https://www.linkedin.com/in/venkateh-k/"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    linkedin.com/in/XXXXXXXXX 
+                    linkedin.com/in/venkateh-k/
                   </a>
                 </p>
 		<p className="contact-info mb-3">
                   <FaGithub className="me-2 icon-warning" />
                   <a
-                    href="https://github.com/XXXXXXX/XXXXX.git"
+                    href="https://github.com/venkateshkalluu.git"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
@@ -57,7 +57,7 @@ function Contact() {
                 <p className="contact-info">
                   <FaWhatsapp className="me-2 icon-warning" />
                   <a
-                    href="https://wa.me/91XXXXXXXX"
+                    href="https://wa.me/9121878363"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
