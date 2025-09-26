@@ -19,7 +19,7 @@ function About() {
           </div>
           <div className="col-md-8">
             <div className="card shadow p-4 border-0 bg-white bg-opacity-75">
-              <h4 className="text-dark mb-3">Venkatesh Kallu</h4>
+              <h4 className="text-dark mb-3">Venkatesh </h4>
               <p className="text-muted">
                 { "I'm an aspiring DevOps Engineer with a keen interest in cloud computing, DevOps, and DevSecOps practices. My journey began with a BSc in Forensic Science, and my passion for technology has driven me to explore the dynamic world of infrastructure automation, monitoring, and security in software systems."}
               </p>
